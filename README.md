@@ -3,7 +3,7 @@
 
 # Pass
 ![image](https://github.com/skysoul1024/ST-2022-0716047/blob/main/image/pass.png)
-![image](https://github.com/skysoul1024/ST-2022-0716047/blob/main/image/pass2.png)
+![image](https://github.com/skysoul1024/ST-2022-0716047/blob/main/image/pass.png)
 # Fail
 ![image](https://github.com/skysoul1024/ST-2022-0716047/blob/main/image/fail.png)
 ![image](https://github.com/skysoul1024/ST-2022-0716047/blob/main/image/fail2.png)

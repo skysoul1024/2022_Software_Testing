@@ -48,9 +48,9 @@ class PriorityQueueTest {
     }
 
     @Test
-    public void whenExceptionThrown_thenNoElementCanRemove(){
+    public void whenExceptionThrown_nullForEach(){
         Exception exception = assertThrows(NullPointerException.class, () -> {
-            PriorityQueue<Integer> test = new PriorityQueue<Integer>();
+            PriorityQueue<Integer> test = new PriorityQueue<Integer>(10);
             test.forEach(null);
         });
     }

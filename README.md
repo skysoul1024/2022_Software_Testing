@@ -1,1 +1,1 @@
-# 2022_Software_Testing
+# 2022_Software_Testing_Lab3
